@@ -11,12 +11,14 @@
             "id": "f3884c52fe8c602d",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "images/material_opt5.pdf"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "material_opt5"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -92,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "images/material_opt5.pdf",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for material_opt5"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "images/material_opt5.pdf",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from material_opt5"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "images/material_opt5.pdf",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of material_opt5"
+              "title": "Outline of README"
             }
           }
         ]
@@ -168,9 +170,9 @@
   },
   "active": "f3884c52fe8c602d",
   "lastOpenFiles": [
+    "images/material_opt5.pdf",
     "images/bone_opt.png",
     "README.md",
-    "images/material_opt5.pdf",
     "images",
     "untitled folder",
     "bone_opt.png",
