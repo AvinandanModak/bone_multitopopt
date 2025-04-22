@@ -170,7 +170,9 @@
   },
   "active": "f3884c52fe8c602d",
   "lastOpenFiles": [
+    "Pasted image 20250423002854.png",
     "material_opt5.pdf",
+    "README.md",
     "test/test_FEM_solver.py",
     "test/__init__.py",
     "test/test_input_file.py",
@@ -180,7 +182,6 @@
     "test/test_bone_micro.py",
     "test/test_bone_assembly.py",
     "src/input_file.py",
-    "src/bone_material_optim_util.py",
     "Examples/Examples_paper/Multiscale_bone/pictures/bone_sub_theta_all-itr/theta_final.png",
     "Examples/Examples_paper/Multiscale_bone/pictures/bone_sub_theta_all-itr/theta_5.png",
     "Examples/Examples_paper/Multiscale_bone/pictures/bone_sub_theta_all-itr/theta_30.png",
