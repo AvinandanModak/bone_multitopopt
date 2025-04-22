@@ -170,9 +170,9 @@
   },
   "active": "f3884c52fe8c602d",
   "lastOpenFiles": [
-    "Pasted image 20250423002854.png",
-    "material_opt5.pdf",
+    "bone_opt.png",
     "README.md",
+    "material_opt5.pdf",
     "test/test_FEM_solver.py",
     "test/__init__.py",
     "test/test_input_file.py",
@@ -191,7 +191,6 @@
     "Examples/Examples_paper/Multiscale_bone/pictures/bone_sub_theta_all-itr/theta_10.png",
     "Examples/Examples_paper/Multiscale_bone/pictures/bone_sub_theta_all-itr/theta_0.png",
     "Examples/Examples_paper/Multiscale_bone/pictures/vertical_slice_mirrored_70.png",
-    "Examples/Examples_paper/Multiscale_bone/pictures/vector_theta_itr_29.png",
     "2025-04-23.md",
     "Untitled.canvas"
   ]
