@@ -11,14 +11,12 @@
             "id": "f3884c52fe8c602d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "images/material_opt5.pdf"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-file-text",
+              "title": "material_opt5"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "images/material_opt5.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for material_opt5"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "images/material_opt5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from material_opt5"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "images/material_opt5.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of material_opt5"
             }
           }
         ]
@@ -170,8 +168,12 @@
   },
   "active": "f3884c52fe8c602d",
   "lastOpenFiles": [
-    "bone_opt.png",
+    "images/bone_opt.png",
     "README.md",
+    "images/material_opt5.pdf",
+    "images",
+    "untitled folder",
+    "bone_opt.png",
     "material_opt5.pdf",
     "test/test_FEM_solver.py",
     "test/__init__.py",
@@ -179,9 +181,6 @@
     "test/test_bone_material_optim.py",
     "test/test_bone_element.py",
     "test/test_fem_util.py",
-    "test/test_bone_micro.py",
-    "test/test_bone_assembly.py",
-    "src/input_file.py",
     "Examples/Examples_paper/Multiscale_bone/pictures/bone_sub_theta_all-itr/theta_final.png",
     "Examples/Examples_paper/Multiscale_bone/pictures/bone_sub_theta_all-itr/theta_5.png",
     "Examples/Examples_paper/Multiscale_bone/pictures/bone_sub_theta_all-itr/theta_30.png",
@@ -190,7 +189,6 @@
     "Examples/Examples_paper/Multiscale_bone/pictures/bone_sub_theta_all-itr/theta_15.png",
     "Examples/Examples_paper/Multiscale_bone/pictures/bone_sub_theta_all-itr/theta_10.png",
     "Examples/Examples_paper/Multiscale_bone/pictures/bone_sub_theta_all-itr/theta_0.png",
-    "Examples/Examples_paper/Multiscale_bone/pictures/vertical_slice_mirrored_70.png",
     "2025-04-23.md",
     "Untitled.canvas"
   ]
